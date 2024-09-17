@@ -1,0 +1,4 @@
+# plugin-name        git-url                                                git-ref (hash, tag, or branch)
+asdf-plugin-manager  https://github.com/asdf-community/asdf-plugin-manager  ecd1642
+gradle               https://github.com/rfrancis/asdf-gradle.git            dd1ecce
+java                 https://github.com/halcyon/asdf-java.git               194f03b
