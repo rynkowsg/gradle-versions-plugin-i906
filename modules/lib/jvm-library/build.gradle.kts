@@ -3,5 +3,5 @@ plugins {
 }
 
 dependencies {
-    implementation("com.google.guava:guava:33.3.0-jvm")
+    implementation("com.google.guava:guava:33.3.0-jre")
 }
